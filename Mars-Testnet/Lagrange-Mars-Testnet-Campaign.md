@@ -92,12 +92,12 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 **Rewards:**
 
-- All eligible Image Creators can split a pool of 155,000 LAD tokens. Additionally, Creators of the top 10 most-liked images will receive an additional bonus as follows:
+- All eligible Image Creators can split a pool of 160,000 LAD tokens. Additionally, Creators of the top 10 most-liked images will receive an additional bonus as follows:
 
   - Top 1: 10,000 LAD
   - Top 2-5: 5,000 LAD each
   - Top 6-10: 2,000 LAD each
-  - For all other participants (rank 11 and beyond), they will share the remaining 155,000 LAD pool.
+  - For all other participants (rank 11 and beyond), they will share the remaining 160,000 LAD pool.
 
 *The ranking will be based on the number of likes received on Creators' tweets showcasing their images*
 
