@@ -120,4 +120,4 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 All LAG awards will be delivered in the form of **NFTs**
 
-NFT holders will be able to collect their LAG token by contacting officials after the TGE (Token Genereated event).vv
+NFT holders will be able to collect their LAG token by contacting officials after the TGE (Token Genereated Event).
