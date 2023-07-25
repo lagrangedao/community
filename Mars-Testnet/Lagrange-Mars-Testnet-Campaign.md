@@ -12,7 +12,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 **How to Participate:**
 
-- 1\. Follow the instructions documented in [Lagrange Documentation here](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/setup-computing-provider) to set up an Computing Provider and keep it online during the Campaign. 
+- 1\. Follow the instructions documented in [Lagrange Documentation here](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/setup-computing-provider) to set up a Computing Provider and keep it online during the Campaign. 
 
   - At least one GPU.
   - At least 2 vCPUs.
@@ -38,14 +38,14 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 - All eligible Computing Providers can split **500,000 LAG**. Rewards will be assigned based on GPU hours as a percentage of the total GPU hours.
   - Your GPU hours: the sum of the duration of your GPUs that’s been used for running Space
   - Total GPU hours: the sum of the duration of all GPUs that’s been used for running Space
-- The Top 1 win the **Golden CP privilege**
+- The Top 1 wins the **Golden CP privilege**
 
 ## Task 2 Space Builder Task
 **Event Period：** August 7, 2023, 2:00 AM (UTC) — September 4, 2023, 2:00 AM (UTC)
 
 **How to Participate:**
 
-- 1\.Follow the the instructions documented in [Lagrange Documentation here](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/build-space
+- 1\.Follow the instructions documented in [Lagrange Documentation here](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/build-space
 ) to fork a space from the provided Base Space and successfully run it.
 
 - 2\.Update your forked Space following the documentation.
@@ -59,7 +59,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 ) with the required details, including 
 
   - Link to your Space
-  - Link to your tweet you shared
+  - Link to the tweet you shared
 
 **How to be eligible:**
 
@@ -77,7 +77,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 **How to Participate:**
 
-- 1\.Choose a space [here](https://lagrangedao.org/spaces) and  and attempt to create some images following a theme provided by Lagrange
+- 1\.Choose a space [here](https://lagrangedao.org/spaces) and  attempt to create some images following a theme provided by Lagrange
   - Each week, a new exciting theme will be unveiled! 
   - Stay tuned for the theme announcements every Monday on our official [Twitter](https://twitter.com/lagrangedao) and [Discord channels](https://discord.com/channels/867879887871672331/1131887555701383278).
 
@@ -89,11 +89,11 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 ) with the required details, including
 
   - Link to your image on MCS
-  - Link to your tweet you shared
+  - Link to the tweet you shared
 
 **How to be eligible:**
 
-- Eligible Image Creator shall create at least 3 images from any Spcae in Lagrange, upload them to MCS.
+- Eligible Image Creator shall create at least 3 images from any Spcae in Lagrange, and upload them to MCS.
 - [The form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
 ) must be submitted upon task completion
 
@@ -120,4 +120,4 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 All LAG awards will be delivered in the form of **NFTs**
 
-NFT holders will be able to collect their LAG token by contacting officials after the TGE (Token Genereated Event).
+NFT holders will be able to collect their LAG tokens by contacting officials after the TGE (Token Genereated Event).
