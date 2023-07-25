@@ -1,4 +1,4 @@
-# Lagrange Mars Testnet : 1,000,000 LAG Giveaway
+# Lagrange Mars Testnet: 1,000,000 LAG Giveaway
 
 ⏰ Event Duration: August 7, 2023, 2:00 AM (UTC) — September 4, 2023, 2:00 AM (UTC)
 
@@ -20,7 +20,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
   - Here are the GPUs we recommend: 
     - T4, RTX 4090, 3090Ti, 3090, 3080Ti, 3080, 3060Ti, 2060, 2070, 2080, 2080Ti, A100, H100  
 
-- 2\. Check [the Dashboard Page](https://provider.lagrangdao.org) to confirm that your Computing Provider is running during the campaign period.
+- 2\. Check [the Dashboard Page](https://provider.lagrangedao.org/provider-status) to confirm that your Computing Provider is running during the campaign period.
 
 - 3\. Provide feedback on the process, documentation, bugs, and improvement ideas in our [Discord Channel](https://discord.com/channels/867879887871672331/1131887246165934120).
 
