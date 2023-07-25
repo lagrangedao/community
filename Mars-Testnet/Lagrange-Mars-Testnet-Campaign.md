@@ -12,7 +12,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 **How to Participate:**
 
-- 1\. Follow the instructions documented in [Lagrange Documentation here](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/setup-computing-provider) to set up a Computing Provider and keep it online during the Campaign. 
+- 1\. Follow the instructions documented in [Lagrange Documentation ](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/setup-computing-provider) to set up a Computing Provider and keep it online during the Campaign. 
 
   - At least one GPU.
   - At least 2 vCPUs.
@@ -20,12 +20,12 @@ By setting up a Computing Provider, building a Space, or using a Space to create
   - Here are the GPUs we recommend: 
     - T4, RTX 4090, 3090Ti, 3090, 3080Ti, 3080, 3060Ti, 2060, 2070, 2080, 2080Ti, A100, H100  
 
-- 2\. Check [the Dashboard Page](https://provider.lagrangdao.org) to confirm that your Computing Provider is running during the campaign period.
+- 2\. Check the [Dashboard](https://provider.lagrangdao.org) to confirm that your Computing Provider is running during the campaign period.
 
 - 3\. Provide feedback on the process, documentation, bugs, and improvement ideas in our [Discord Channel](https://discord.com/channels/867879887871672331/1131887246165934120).
 
-- 4\. Submit [the form here](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
-) with the required details.
+- 4\. Submit the [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
+) here with the required details.
 
 **How to be eligible:**
 
@@ -55,8 +55,8 @@ By setting up a Computing Provider, building a Space, or using a Space to create
   - Content must be in English.
   - Content must be shared on Twitter, and must tag [@lagrangedao](https://twitter.com/lagrangedao) and [@0xfilswan](https://twitter.com/0xfilswan) 
 
-- 4\.Submit [the form here](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
-) with the required details, including 
+- 4\.Submit the [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
+) here with the required details, including 
 
   - Link to your Space
   - Link to the tweet you shared
@@ -85,8 +85,8 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 - 3\.Share the links of your images and tweets in our [Discord](https://discord.com/channels/867879887871672331/1131887555701383278)and Telegram channels for more engagement.
 
-- 4\. Submit [the form here](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
-) with the required details, including
+- 4\. Submit the [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
+) here with the required details, including
 
   - Link to your image on MCS
   - Link to the tweet you shared
