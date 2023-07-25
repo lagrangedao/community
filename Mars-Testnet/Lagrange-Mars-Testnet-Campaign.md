@@ -1,4 +1,4 @@
-# Lagrange Mars Testnet : 1,000,000 LAG Giveaway
+# Lagrange Mars Testnet: 1,000,000 LAG Giveaway
 
 ⏰ Event Duration: 7th August, 0:01 (EST) - 3rd September, 23:59 (EST)
 
@@ -30,8 +30,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 **How to be eligible:**
 
 - Eligible Computing Provider should have at least one Space that has been deployed to it and keep the Space running during the Campaign.
-- The [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
-) must be submitted upon task completion.
+- The [form](https://forms.gle/YyzotPhHqx4DmCmy9) must be submitted upon task completion.
 
 **Rewards:** 
 
@@ -55,17 +54,14 @@ By setting up a Computing Provider, building a Space, or using a Space to create
   - Content must be in English.
   - Content must be shared on Twitter, and must tag [@lagrangedao](https://twitter.com/lagrangedao) and [@0xfilswan](https://twitter.com/0xfilswan) 
 
-- 4\.Submit the [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
-) here with the required details, including 
-
+- 4\.Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including 
   - Link to your Space
   - Link to the tweet you shared
 
 **How to be eligible:**
 
 - Eligible Space Builders shall build at least one Space that generates at least one image and remains operational for the duration of the event.
-- The [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
-) must be submitted upon task completion
+- The [form](https://forms.gle/YyzotPhHqx4DmCmy9) must be submitted upon task completion
 
 **Rewards:**
 
@@ -85,17 +81,14 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 - 3\.Share the links of your images and tweets in our [Discord](https://discord.com/channels/867879887871672331/1131887555701383278) and Telegram channels for more engagement.
 
-- 4\. Submit the [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
-) here with the required details, including
-
+- 4\. Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including
   - Link to your image on MCS
   - Link to the tweet you shared
 
 **How to be eligible:**
 
 - Eligible Image Creator shall create at least 3 images from any Spcae in Lagrange, and upload them to MCS.
-- The [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
-) must be submitted upon task completion
+- The [form](https://forms.gle/YyzotPhHqx4DmCmy9) must be submitted upon task completion
 
 **Rewards:**
 
@@ -120,4 +113,4 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 All LAG awards will be delivered in the form of **NFTs**
 
-NFT holders will be able to collect their LAG tokens by contacting officials after the TGE (Token Genereated Event).
+NFT holders will be able to collect their LAG tokens by contacting officials after the TGE (Token Generated Event).
