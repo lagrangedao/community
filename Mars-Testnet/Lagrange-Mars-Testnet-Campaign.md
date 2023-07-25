@@ -24,12 +24,12 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 - 3\. Provide feedback on the process, documentation, bugs, and improvement ideas in our [Discord Channel](https://discord.com/channels/867879887871672331/1131887246165934120).
 
-- 4\. Submit [the form here](https://forms.gle/YyzotPhHqx4DmCmy9) with the required details.
+- 4\. Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details.
 
 **How to be eligible:**
 
 - Eligible Computing Provider should have at least one Space that has been deployed to it and keep the Space running during the Campaign.
-- [The form](https://forms.gle/YyzotPhHqx4DmCmy9) must be submitted upon task completion.
+- The [form](https://forms.gle/YyzotPhHqx4DmCmy9) must be submitted upon task completion.
 
 **Rewards:** 
 
@@ -53,15 +53,15 @@ By setting up a Computing Provider, building a Space, or using a Space to create
   - Content must be in English.
   - Content must be shared on Twitter, and must tag [@lagrangedao](https://twitter.com/lagrangedao) and [@0xfilswan](https://twitter.com/0xfilswan) 
 
-- 4\.Submit [the form here](https://forms.gle/YyzotPhHqx4DmCmy9) with the required details, including 
+- 4\.Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including 
 
   - Link to your Space
-  - Link to your tweet you shared
+  - Link to the tweet you shared
 
 **How to be eligible:**
 
 - Eligible Space Builders shall build at least one Space that generates at least one image and remains operational for the duration of the event.
-- [The form](https://forms.gle/YyzotPhHqx4DmCmy9) must be submitted upon task completion
+- The [form](https://forms.gle/YyzotPhHqx4DmCmy9) must be submitted upon task completion
 
 **Rewards:**
 
@@ -81,7 +81,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 - 3\.Share the links of your images and tweets in our [Discord](https://discord.com/channels/867879887871672331/1131887555701383278) and Telegram channels for more engagement.
 
-- 4\. Submit [the form here](https://forms.gle/YyzotPhHqx4DmCmy9) with the required details, including
+- 4\. Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including
 
   - Link to your image on MCS
   - Link to the tweet you shared
@@ -89,7 +89,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 **How to be eligible:**
 
 - Eligible Image Creator shall create at least 3 images from any Spcae in Lagrange, and upload them to MCS.
-- [The form](https://forms.gle/YyzotPhHqx4DmCmy9) must be submitted upon task completion
+- The [form](https://forms.gle/YyzotPhHqx4DmCmy9) must be submitted upon task completion
 
 **Rewards:**
 
