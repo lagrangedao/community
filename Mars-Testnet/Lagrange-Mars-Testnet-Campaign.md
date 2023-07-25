@@ -1,6 +1,6 @@
 # Lagrange Mars Testnet : 1,000,000 LAG Giveaway
 
-⏰ Event Duration: August 7, 2023, 2:00 AM (UTC) — September 4, 2023, 2:00 AM (UTC)
+⏰ Event Duration: 7th August, 0:01 (EST) - 3rd September, 23:59 (EST)
 
 To be a part of the Lagrange Testnet, interact with Lagrange firsthand, and experience the groundbreaking features and functionalities Lagrange has developed for the future of Web3.
 
@@ -8,7 +8,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 
 ## Task 1: Computing Provider Setup Task 
-**Event Period：** August 7, 2023, 2:00 AM (UTC) — September 4, 2023, 2:00 AM (UTC)
+**Event Period：** 7th August, 0:01 (EST) - 3rd September, 23:59 (EST)
 
 **How to Participate:**
 
@@ -41,7 +41,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 - The Top 1 wins the **Golden CP privilege**
 
 ## Task 2 Space Builder Task
-**Event Period：** August 7, 2023, 2:00 AM (UTC) — September 4, 2023, 2:00 AM (UTC)
+**Event Period：** 7th August, 0:01 (EST) - 3rd September, 23:59 (EST)
 
 **How to Participate:**
 
@@ -73,7 +73,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 
 ## Task 3 Image Creator Task
-**Event Period：** August 7, 2023, 2:00 AM (UTC) — September 4, 2023, 2:00 AM (UTC)
+**Event Period：** 7th August, 0:01 (EST) - 3rd September, 23:59 (EST)
 
 **How to Participate:**
 
