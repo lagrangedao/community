@@ -45,7 +45,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 **How to Participate:**
 
-- 1\.Follow the instructions documented in [Lagrange Documentation here](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/build-space
+- 1\.Follow the instructions documented in [Lagrange Documentation](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/build-space
 ) to fork a space from the provided Base Space and successfully run it.
 
 - 2\.Update your forked Space following the documentation.
@@ -77,13 +77,13 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 **How to Participate:**
 
-- 1\.Choose a space [here](https://lagrangedao.org/spaces) and  attempt to create some images following a theme provided by Lagrange
+- 1\.Choose a [space](https://lagrangedao.org/spaces) and attempt to create some images following a theme provided by Lagrange
   - Each week, a new exciting theme will be unveiled! 
   - Stay tuned for the theme announcements every Monday on our official [Twitter](https://twitter.com/lagrangedao) and [Discord channels](https://discord.com/channels/867879887871672331/1131887555701383278).
 
 - 2\.Upload your 3 best images to [MCS](https://www.multichain.storage) and share them on Twitter.
 
-- 3\.Share the links of your images and tweets in our [Discord](https://discord.com/channels/867879887871672331/1131887555701383278)and Telegram channels for more engagement.
+- 3\.Share the links of your images and tweets in our [Discord](https://discord.com/channels/867879887871672331/1131887555701383278) and Telegram channels for more engagement.
 
 - 4\. Submit the [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
 ) here with the required details, including
