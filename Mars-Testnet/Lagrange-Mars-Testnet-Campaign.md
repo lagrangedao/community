@@ -1,6 +1,6 @@
 # Lagrange Mars Testnet: 1,000,000 LAG Giveaway
 
-⏰ Event Duration: August 7, 2023, 2:00 AM (UTC) — September 4, 2023, 2:00 AM (UTC)
+⏰ Event Duration: 7th August, 0:01 (EST) - 3rd September, 23:59 (EST)
 
 To be a part of the Lagrange Testnet, interact with Lagrange firsthand, and experience the groundbreaking features and functionalities Lagrange has developed for the future of Web3.
 
@@ -8,11 +8,11 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 
 ## Task 1: Computing Provider Setup Task 
-**Event Period：** August 7, 2023, 2:00 AM (UTC) — September 4, 2023, 2:00 AM (UTC)
+**Event Period：** 7th August, 0:01 (EST) - 3rd September, 23:59 (EST)
 
 **How to Participate:**
 
-- 1\. Follow the instructions documented in [Lagrange Documentation](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/setup-computing-provider) here to set up a Computing Provider and keep it online during the Campaign. 
+- 1\. Follow the instructions documented in [Lagrange Documentation ](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/setup-computing-provider) to set up a Computing Provider and keep it online during the Campaign. 
 
   - At least one GPU.
   - At least 2 vCPUs.
@@ -20,11 +20,12 @@ By setting up a Computing Provider, building a Space, or using a Space to create
   - Here are the GPUs we recommend: 
     - T4, RTX 4090, 3090Ti, 3090, 3080Ti, 3080, 3060Ti, 2060, 2070, 2080, 2080Ti, A100, H100  
 
-- 2\. Check the [Dashboard](https://provider.lagrangedao.org/provider-status) page to confirm that your Computing Provider is running during the campaign period.
+- 2\. Check the [Dashboard](https://provider.lagrangedao.org/provider-status) to confirm that your Computing Provider is running during the campaign period.
 
 - 3\. Provide feedback on the process, documentation, bugs, and improvement ideas in our [Discord Channel](https://discord.com/channels/867879887871672331/1131887246165934120).
 
-- 4\. Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details.
+- 4\. Submit the [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
+) here with the required details.
 
 **How to be eligible:**
 
@@ -39,11 +40,11 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 - The Top 1 wins the **Golden CP privilege**
 
 ## Task 2 Space Builder Task
-**Event Period：** August 7, 2023, 2:00 AM (UTC) — September 4, 2023, 2:00 AM (UTC)
+**Event Period：** 7th August, 0:01 (EST) - 3rd September, 23:59 (EST)
 
 **How to Participate:**
 
-- 1\.Follow the instructions documented in [Lagrange Documentation here](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/build-space
+- 1\.Follow the instructions documented in [Lagrange Documentation](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/build-space
 ) to fork a space from the provided Base Space and successfully run it.
 
 - 2\.Update your forked Space following the documentation.
@@ -54,7 +55,6 @@ By setting up a Computing Provider, building a Space, or using a Space to create
   - Content must be shared on Twitter, and must tag [@lagrangedao](https://twitter.com/lagrangedao) and [@0xfilswan](https://twitter.com/0xfilswan) 
 
 - 4\.Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including 
-
   - Link to your Space
   - Link to the tweet you shared
 
@@ -69,11 +69,11 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 
 ## Task 3 Image Creator Task
-**Event Period：** August 7, 2023, 2:00 AM (UTC) — September 4, 2023, 2:00 AM (UTC)
+**Event Period：** 7th August, 0:01 (EST) - 3rd September, 23:59 (EST)
 
 **How to Participate:**
 
-- 1\.Choose a space [here](https://lagrangedao.org/spaces) and  attempt to create some images following a theme provided by Lagrange
+- 1\.Choose a [space](https://lagrangedao.org/spaces) and attempt to create some images following a theme provided by Lagrange
   - Each week, a new exciting theme will be unveiled! 
   - Stay tuned for the theme announcements every Monday on our official [Twitter](https://twitter.com/lagrangedao) and [Discord channels](https://discord.com/channels/867879887871672331/1131887555701383278).
 
@@ -82,7 +82,6 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 - 3\.Share the links of your images and tweets in our [Discord](https://discord.com/channels/867879887871672331/1131887555701383278) and Telegram channels for more engagement.
 
 - 4\. Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including
-
   - Link to your image on MCS
   - Link to the tweet you shared
 
