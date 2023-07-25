@@ -30,7 +30,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 **How to be eligible:**
 
 - Eligible Computing Provider should have at least one Space that has been deployed to it and keep the Space running during the Campaign.
-- [The form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
+- The [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
 ) must be submitted upon task completion.
 
 **Rewards:** 
@@ -64,7 +64,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 **How to be eligible:**
 
 - Eligible Space Builders shall build at least one Space that generates at least one image and remains operational for the duration of the event.
-- [The form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
+- The [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
 ) must be submitted upon task completion
 
 **Rewards:**
@@ -94,7 +94,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 **How to be eligible:**
 
 - Eligible Image Creator shall create at least 3 images from any Spcae in Lagrange, and upload them to MCS.
-- [The form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
+- The [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
 ) must be submitted upon task completion
 
 **Rewards:**
