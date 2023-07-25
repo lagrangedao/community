@@ -12,7 +12,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 **How to Participate:**
 
-- 1\. Follow the instructions documented in [Lagrange Documentation here](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/setup-computing-provider) to set up a Computing Provider and keep it online during the Campaign. 
+- 1\. Follow the instructions documented in [Lagrange Documentation](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/setup-computing-provider) here to set up a Computing Provider and keep it online during the Campaign. 
 
   - At least one GPU.
   - At least 2 vCPUs.
