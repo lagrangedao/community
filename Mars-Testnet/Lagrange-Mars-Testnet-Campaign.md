@@ -79,7 +79,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 - 2\.Upload your 3 best images to [MCS](https://www.multichain.storage) and share them on Twitter.
 
-- 3\.Share the links of your images and tweets in our [Discord](https://discord.com/channels/867879887871672331/1131887555701383278)and Telegram channels for more engagement.
+- 3\.Share the links of your images and tweets in our [Discord](https://discord.com/channels/867879887871672331/1131887555701383278) and Telegram channels for more engagement.
 
 - 4\. Submit [the form here](https://forms.gle/YyzotPhHqx4DmCmy9) with the required details, including
 
