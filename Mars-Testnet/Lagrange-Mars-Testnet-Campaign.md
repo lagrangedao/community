@@ -100,7 +100,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 **Rewards:**
 
-- All eligible image creators have a chance to split the prize pool of 200,000 LAG tokens based on the popularity of their images. The more likes your images receive, the greater your reward!
+- All eligible image creators have a chance to split the prize pool of **200,000 LAG** tokens based on the popularity of their images. The more likes your images receive, the greater your reward!
 - Prizes:
   - Top 1: 10,000 LAG
   - Top 2-5: 5,000 LAG each
