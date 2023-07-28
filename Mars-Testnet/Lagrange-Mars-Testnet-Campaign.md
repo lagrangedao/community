@@ -1,14 +1,41 @@
 # Lagrange Mars Testnet: 1,000,000 LAG Giveaway
 
-⏰ Event Duration: 7th August, 00:00 (EST) - 3rd September, 23:59 (EST)
+⏰ Event Duration: 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
+
+## Mission 
+
+Lagrange's Mars Testnet is the first attempt to utilize enormous computing and storage resources of Filecoin, Chainlink, BNB Chain, and other blockchains for Web3 developers.
+
+Over the course of four weeks, we will utilize decentralized computing power from different blockchains to create a captivating scene on Planet Mars, including:
+- Landscape
+- Creatures
+- Vehicles, Spaceship
+- Buildings and live scene
+- CG/Short film
+
+Partners from the realms of AI, gaming, and the metaverse are welcome to join us in this ambitious endeavor by contacting us at tema@filswan.com.
+
+
+## Goals
+
+- 100 GPUs, 1Million Images
+- Validate the large-scale GPU computing on Lagrange Network
+- Adaption of models on image generation, e.g. Stable diffusion, Lora, Dall-E
+- Developer experience and feedback on space building and datasets
+- Multichain Payment and debug on the payment channel
+- Validate Lagrange Network’s new GPU marketplace
+- Co-working with partners in AI, Gaming, and other metaverse projects
+- Community participation in AIGC includes images and scene
+- Attract AI and ML enthusiasts/ experts to the Lagrange Network community.
+
+## Tasks
 
 To be a part of the Lagrange Testnet, interact with Lagrange firsthand, and experience the groundbreaking features and functionalities Lagrange has developed for the future of Web3.
 
 By setting up a Computing Provider, building a Space, or using a Space to create images, you stand a chance to win LAG.
 
-
-## Task 1: Computing Provider Setup Task 
-**Event Period：** 7th August, 00:00 (EST) - 3rd September, 23:59 (EST)
+### Task 1: Computing Provider Setup Task 
+**Event Period：** 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
 
 **How to Participate:**
 
@@ -39,8 +66,8 @@ By setting up a Computing Provider, building a Space, or using a Space to create
   - Total GPU hours: the sum of the duration of all GPUs that’s been used for running Space
 - The Top 1 wins the **Golden CP privilege**
 
-## Task 2 Space Builder Task
-**Event Period：** 7th August, 00:00 (EST) - 3rd September, 23:59 (EST)
+### Task 2 Space Builder Task
+**Event Period：** 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
 
 **How to Participate:**
 
@@ -76,8 +103,8 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 *Note: The ranking will be based on the popularity of the space they build.*
 
 
-## Task 3 Image Creator Task
-**Event Period：** 7th August, 00:00 (EST) - 3rd September, 23:59 (EST)
+### Task 3 Image Creator Task
+**Event Period：** 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
 
 **How to Participate:**
 
