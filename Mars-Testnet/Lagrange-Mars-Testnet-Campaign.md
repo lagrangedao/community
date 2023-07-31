@@ -13,7 +13,7 @@ Over the course of four weeks, we will utilize decentralized computing power fro
 - Buildings and live scene
 - CG/Short film
 
-Partners from the realms of AI, gaming, and the metaverse are welcome to join us in this ambitious endeavor by contacting us at tema@filswan.com.
+Partners from the realms of AI, gaming, and the metaverse are welcome to join us in this ambitious endeavor by contacting us at team@filswan.com.
 
 
 ## Goals
