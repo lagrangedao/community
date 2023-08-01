@@ -18,14 +18,14 @@ Partners from the realms of AI, gaming, and the metaverse are welcome to join us
 
 ## Goals
 
-- 100 GPUs, 1Million Images
-- Validate the large-scale GPU computing on Lagrange Network
-- Adaption of models on image generation, e.g. Stable diffusion, Lora, Dall-E
-- Developer experience and feedback on space building and datasets
-- Multichain Payment and debug on the payment channel
-- Validate Lagrange Network’s new GPU marketplace
-- Co-working with partners in AI, Gaming, and other metaverse projects
-- Community participation in AIGC includes images and scene
+- Harness the power of 100 GPUs to generate 1 million images.
+- Validate large-scale GPU computing on the Lagrange Network.
+- Explore the adaptation of models such as Stable diffusion, Lora, and Dall-E for image generation.
+- Solicit developer feedback on space building and datasets.
+- Multichain Payment and debug on the payment channel.
+- Validate Lagrange Network's new GPU marketplace.
+- Collaborate with partners in AI, gaming, and the metaverse.
+- Engage our community in the AIGC including images and scenes.
 - Attract AI and ML enthusiasts/ experts to the Lagrange Network community.
 
 ## Tasks
@@ -42,8 +42,8 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 - 1\. Follow the instructions documented in [Lagrange Documentation ](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/setup-computing-provider) to set up a Computing Provider and keep it online during the Campaign. 
 
   - At least one GPU.
-  - At least 2 vCPUs.
-  - At least 20G SSD； Memory 32G
+  - At least 8 vCPUs.
+  - At least 50G SSD； Memory 32G
   - Here are the GPUs we recommend: 
     - T4, RTX 4090, 3090Ti, 3090, 3080Ti, 3080, 3060Ti, 2060, 2070, 2080, 2080Ti, A100, H100  
 
