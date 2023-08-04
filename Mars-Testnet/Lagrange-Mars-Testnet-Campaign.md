@@ -1,6 +1,6 @@
 # Lagrange Mars Testnet: 1,000,000 LAG Giveaway
 
-⏰ Event Duration: 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
+Campaign Duration: 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
 
 ## Mission 
 
@@ -45,16 +45,19 @@ By setting up a Computing Provider, building a Space, or using a Space to create
   - At least 8 vCPUs
   - Minimum 50GB SSD storage
   - Minimum 32GB memory
+  - Minimum 50MB bandwidth
   - Here are the GPUs we recommend: 
     - T4, RTX 4090, 3090Ti, 3090, 3080Ti, 3080, 3060Ti, 2060, 2070, 2080, 2080Ti, A100, H100  
 
 - 2\. Check the [Dashboard](https://provider.lagrangedao.org/provider-status) to confirm that your Computing Provider is running during the campaign period.
 
-- 3\. Provide feedback on the process, documentation, bugs, and improvement ideas in our [Discord Channel](https://discord.com/channels/867879887871672331/1131887246165934120).
+- 3\. Provide feedback on the process, documentation, bugs, and improvement ideas in our [Discord Channel]((https://discord.com/invite/qHEEyQTECX)).
 
 - 4\. Submit the [form](https://docs.google.com/forms/d/e/1FAIpQLSf0JRi18xsp_YCoQKPuE0azYLDDNwAXBMNIeqwXFMgqVljU1Q/viewform?usp=sf_link
 ) here with the required details.
-
+  
+- 5\. Tutorial: As detailed [here](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/setup-computing-provider).
+  
 **How to be eligible:**
 
 - Eligible Computing Provider should have at least one Space that has been deployed to it and keep the Space running during the Campaign.
@@ -73,11 +76,11 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 **How to Participate:**
 
 - 1\.Follow the instructions documented in [Lagrange Documentation](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/build-space
-) to fork a space from the provided Base Space and successfully run it.
+) to fork a space from the provided [Stable Diffusion Base Space](https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Stable-Diffusion-Base-LoRA/card) and successfully run it.
 
-- 2\.Update your forked Space following the documentation.
+- 2\.Update your forked Space following the [Documentation](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/build-space)
 
-- 3\. Share your Space on Twitter
+- 3\.Share your Space on Twitter
 
   - Content must be in English.
   - Content must be shared on Twitter, and must tag [@lagrangedao](https://twitter.com/lagrangedao) and [@0xfilswan](https://twitter.com/0xfilswan) 
@@ -85,6 +88,8 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 - 4\.Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including 
   - Link to your Space
   - Link to the tweet you shared
+
+- 5\. Tutorial: As detailed [here](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/build-space)
 
 **How to be eligible:**
 
@@ -109,9 +114,9 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 **How to Participate:**
 
-- 1\.Choose a [space](https://lagrangedao.org/spaces) and attempt to create some images following a theme provided by Lagrange
-  - Each week, a new exciting theme will be unveiled! 
-  - Stay tuned for the theme announcements every Monday on our official [Twitter](https://twitter.com/lagrangedao) and [Discord channels](https://discord.com/channels/867879887871672331/1131887555701383278).
+- 1\.Choose a [Stable Diffusion Space](https://lagrangedao.org/spaces) and attempt to create some images following a theme provided by Lagrange: Mars Landscape, Mars Creatures, Mars Vehicles, Mars Buildings and live scenes.
+  - Each theme represents a piece of the puzzle that, when combined, will form a breathtaking scene on Planet Mars.
+  - Feel free to explore the [Stable Diffusion Base Space](https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Stable-Diffusion-Base-LoRA/card) and other [Stable Diffusion Spaces](https://lagrangedao.org/spaces) updated by Space Builders. 
 
 - 2\.Upload your 3 best images to [MCS](https://www.multichain.storage) and share them on Twitter.
 
@@ -121,9 +126,11 @@ By setting up a Computing Provider, building a Space, or using a Space to create
   - Link to your image on MCS
   - Link to the tweet you shared
 
+- 5\. Tutorial: As detailed [here](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/use-space)
+
 **How to be eligible:**
 
-- Eligible Image Creator shall create at least 3 images from any Spcae in Lagrange, and upload them to MCS.
+- Eligible Image Creator shall create at least 3 images from any Spcae in Lagrange.
 - The [form](https://forms.gle/YyzotPhHqx4DmCmy9) must be submitted upon task completion
 
 **Rewards:**
