@@ -118,15 +118,13 @@ By setting up a Computing Provider, building a Space, or using a Space to create
   - Each theme represents a piece of the puzzle that, when combined, will form a breathtaking scene on Planet Mars.
   - Feel free to explore the [Stable Diffusion Base Space](https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Stable-Diffusion-Base-LoRA/card) and other Stable Diffusion Spaces updated by Space Builders. 
 
-- 2\.Upload your 3 best images to [MCS](https://www.multichain.storage) and share them on Twitter.
+- 2\.Upload your 3 best images to [Multichain.Storage](https://www.multichain.storage) and share them on Twitter.
 
-- 3\.Share the links of your images and tweets in our [Discord](https://discord.com/channels/867879887871672331/1131887555701383278) and Telegram channels for more engagement.
-
-- 4\. Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including
-  - Link to your image on MCS
+- 3\. Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including
+  - Link to your image on Multichain.Storage
   - Link to the tweet you shared
 
-- 5\. Tutorial: As detailed [here](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/use-space)
+- 4\. Tutorial: As detailed [here](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/use-space)
 
 **How to be eligible:**
 
