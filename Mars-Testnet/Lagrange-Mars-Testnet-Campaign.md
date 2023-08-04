@@ -1,6 +1,6 @@
 # Lagrange Mars Testnet: 1,000,000 LAG Giveaway
 
-⏰ Event Duration: 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
+Campaign Duration: 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
 
 ## Mission 
 
@@ -45,7 +45,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
   - At least 8 vCPUs
   - Minimum 50GB SSD storage
   - Minimum 32GB memory
-  - Minimum 50Mb bandwidth
+  - Minimum 50MB bandwidth
   - Here are the GPUs we recommend: 
     - T4, RTX 4090, 3090Ti, 3090, 3080Ti, 3080, 3060Ti, 2060, 2070, 2080, 2080Ti, A100, H100  
 
