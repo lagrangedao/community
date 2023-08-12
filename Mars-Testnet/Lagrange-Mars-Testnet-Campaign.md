@@ -41,7 +41,10 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 - 1\. Follow the instructions documented in [Lagrange Documentation ](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/setup-computing-provider) to set up a Computing Provider and keep it online during the Campaign. 
 
-  - At least one GPU
+  - Possess a public IP
+  - Have a wildcard domain name (*.example.com)
+  - Have an SSL certificate
+  - Have at least one GPU
   - At least 8 vCPUs
   - Minimum 50GB SSD storage
   - Minimum 32GB memory
