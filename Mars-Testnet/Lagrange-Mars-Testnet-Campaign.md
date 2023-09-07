@@ -1,6 +1,6 @@
 # Lagrange Mars Testnet: 1,000,000 LAG Giveaway
 
-Campaign Duration: 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
+Campaign Duration: 14th August, 00:00 (EST) - 17th September, 23:59 (EST)
 
 ## Mission 
 
@@ -35,7 +35,7 @@ To be a part of the Lagrange Testnet, interact with Lagrange firsthand, and expe
 By setting up a Computing Provider, building a Space, or using a Space to create images, you stand a chance to win LAG.
 
 ### Task 1: Computing Provider Setup Task 
-**Event Period：** 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
+**Event Period：** 14th August, 00:00 (EST) - 17th September, 23:59 (EST)
 
 **How to Participate:**
 
@@ -74,7 +74,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 - The Top 1 wins the **Golden CP privilege**
 
 ### Task 2 Space Builder Task
-**Event Period：** 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
+**Event Period：** 14th August, 00:00 (EST) - 17th September, 23:59 (EST)
 
 **How to Participate:**
 
@@ -113,7 +113,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 
 ### Task 3 Image Creator Task
-**Event Period：** 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
+**Event Period：** 14th August, 00:00 (EST) - 17th September, 23:59 (EST)
 
 **How to Participate:**
 
