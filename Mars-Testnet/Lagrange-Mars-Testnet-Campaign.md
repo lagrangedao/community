@@ -1,6 +1,6 @@
 # Lagrange Mars Testnet: 1,000,000 LAG Giveaway
 
-Campaign Duration: 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
+Campaign Duration: 14th August, 00:00 (EST) - 17th September, 23:59 (EST)
 
 ## Mission 
 
@@ -35,13 +35,16 @@ To be a part of the Lagrange Testnet, interact with Lagrange firsthand, and expe
 By setting up a Computing Provider, building a Space, or using a Space to create images, you stand a chance to win LAG.
 
 ### Task 1: Computing Provider Setup Task 
-**Event Period：** 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
+**Event Period：** 14th August, 00:00 (EST) - 17th September, 23:59 (EST)
 
 **How to Participate:**
 
 - 1\. Follow the instructions documented in [Lagrange Documentation ](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/setup-computing-provider) to set up a Computing Provider and keep it online during the Campaign. 
 
-  - At least one GPU
+  - Possess a public IP
+  - Have a wildcard domain name (*.example.com)
+  - Have an SSL certificate
+  - Have at least one GPU
   - At least 8 vCPUs
   - Minimum 50GB SSD storage
   - Minimum 32GB memory
@@ -71,7 +74,7 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 - The Top 1 wins the **Golden CP privilege**
 
 ### Task 2 Space Builder Task
-**Event Period：** 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
+**Event Period：** 14th August, 00:00 (EST) - 17th September, 23:59 (EST)
 
 **How to Participate:**
 
@@ -110,23 +113,21 @@ By setting up a Computing Provider, building a Space, or using a Space to create
 
 
 ### Task 3 Image Creator Task
-**Event Period：** 14th August, 00:00 (EST) - 10th September, 23:59 (EST)
+**Event Period：** 14th August, 00:00 (EST) - 17th September, 23:59 (EST)
 
 **How to Participate:**
 
-- 1\.Choose a [Stable Diffusion Space](https://lagrangedao.org/spaces) and attempt to create some images following a theme provided by Lagrange: Mars Landscape, Mars Creatures, Mars Vehicles, Mars Buildings and live scenes.
+- 1\.Choose a Stable Diffusion Space in [Lagrange](https://lagrangedao.org/spaces) and attempt to create some images following a theme provided by Lagrange: Mars Landscape, Mars Creatures, Mars Vehicles, Mars Buildings and live scenes.
   - Each theme represents a piece of the puzzle that, when combined, will form a breathtaking scene on Planet Mars.
-  - Feel free to explore the [Stable Diffusion Base Space](https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Stable-Diffusion-Base-LoRA/card) and other [Stable Diffusion Spaces](https://lagrangedao.org/spaces) updated by Space Builders. 
+  - Feel free to explore the [Stable Diffusion Base Space](https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/Stable-Diffusion-Base-LoRA/card) and other Stable Diffusion Spaces updated by Space Builders. 
 
-- 2\.Upload your 3 best images to [MCS](https://www.multichain.storage) and share them on Twitter.
+- 2\.Upload your 3 best images to [Multichain.Storage](https://www.multichain.storage) and share them on Twitter.
 
-- 3\.Share the links of your images and tweets in our [Discord](https://discord.com/channels/867879887871672331/1131887555701383278) and Telegram channels for more engagement.
-
-- 4\. Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including
-  - Link to your image on MCS
+- 3\. Submit the [form](https://forms.gle/YyzotPhHqx4DmCmy9) here with the required details, including
+  - Link to your image on Multichain.Storage
   - Link to the tweet you shared
 
-- 5\. Tutorial: As detailed [here](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/use-space)
+- 4\. Tutorial: As detailed [here](https://docs.lagrangedao.org/lagrange-dao/mars-testnet/use-space)
 
 **How to be eligible:**
 
