@@ -10,11 +10,11 @@
 - 在搜索栏中输入“stable diffusion”或“mars” 关键词以筛选符合条件的Space。
 - 选择点赞数较高且标注为“Running”状态的Space。
 - 推荐的Stable Diffusion Space：
-  - [Space 1](https://lagrangedao.org/spaces/0x7E0c07e66CD480CDa94dEaaeEB5a84Fa9F8215e6/Stable-Diffusion-Base-LoRA/app)
-  - [Space 2](https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/MarsAttacks/app)
-  - [Space 3](https://lagrangedao.org/spaces/0xD505C8130E62681F43809d9242B0a77a3847A884/Lazy-mars/app)
-  - [Space 4](https://lagrangedao.org/spaces/0x73481e71139E6c321631D0DF0893A43AE656a3Ab/cooljoe/app)
-  - [Space 5](https://lagrangedao.org/spaces/0x7E0c07e66CD480CDa94dEaaeEB5a84Fa9F8215e6/Planet-Mars/app)
+  - [Space 1: Stable-Diffusion-Base-LoRA](https://lagrangedao.org/spaces/0x7E0c07e66CD480CDa94dEaaeEB5a84Fa9F8215e6/Stable-Diffusion-Base-LoRA/app)
+  - [Space 2: MarsAttack](https://lagrangedao.org/spaces/0x6091b2f5678952cAfbf02755D78973EBff302e11/MarsAttacks/app)
+  - [Space 3: Lazy-mars](https://lagrangedao.org/spaces/0xD505C8130E62681F43809d9242B0a77a3847A884/Lazy-mars/app)
+  - [Space 4: cooljoe](https://lagrangedao.org/spaces/0x73481e71139E6c321631D0DF0893A43AE656a3Ab/cooljoe/app)
+  - [Space 5: Planet-Mars](https://lagrangedao.org/spaces/0x7E0c07e66CD480CDa94dEaaeEB5a84Fa9F8215e6/Planet-Mars/app)
 
 ### 1.2 生成图片
 
